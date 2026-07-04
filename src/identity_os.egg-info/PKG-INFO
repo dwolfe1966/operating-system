@@ -1,3 +1,23 @@
+Metadata-Version: 2.4
+Name: identity-os
+Version: 0.1.0
+Summary: An open framework for agentic AI collaboration built on identity as the foundational primitive.
+License: Apache-2.0
+Keywords: identity,agentic-ai,collaboration,platform,security
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Security
+Classifier: Topic :: Software Development :: Libraries :: Application Frameworks
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
+Requires-Dist: pytest-cov>=5.0; extra == "dev"
+
 # Identity Operating System
 
 > An open framework for agentic AI collaboration built on identity as the foundational primitive.
