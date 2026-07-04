@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/identity_os/__init__.py
+src/identity_os/agents.py
+src/identity_os/identity.py
+src/identity_os/platform.py
+src/identity_os.egg-info/PKG-INFO
+src/identity_os.egg-info/SOURCES.txt
+src/identity_os.egg-info/dependency_links.txt
+src/identity_os.egg-info/requires.txt
+src/identity_os.egg-info/top_level.txt
+tests/test_agents.py
+tests/test_identity.py
+tests/test_platform.py
